@@ -5,6 +5,8 @@ The CAN PMOD is a PMOD-compatible board based on the [SN65HVD230 CAN Board
 
 ![](./img/canpmod.png)
 
+![](./img/canpmod-3d.png)
+
 ## PMOD Connections
 
 |PMOD|PIN|Function|

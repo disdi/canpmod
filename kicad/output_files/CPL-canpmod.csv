@@ -1,13 +1,13 @@
 Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
-C1,100nF,C_0603_1608Metric,169.645,-75.295,0.0,top
-C2,560pF,C_0603_1608Metric,169.645,-77.805,0.0,top
-C3,560pF,C_0603_1608Metric,169.645,-80.315,0.0,top
-J1,Conn_01x02,TerminalBlock_bornier-2_P5.08mm,153.055,-95.915,0.0,top
-J2,PMOD,PinHeader_2x06_P2.54mm_Horizontal,155.255,-82.715,0.0,top
-JP1,Jumper_2_Open,PinHeader_1x02_P2.54mm_Vertical,161.155,-94.99,0.0,top
-R1,4.7K,R_0805_2012Metric,165.435,-75.515,0.0,top
-R2,4.7k,R_0805_2012Metric,165.435,-78.465,0.0,top
-R3,100,R_0805_2012Metric,165.435,-81.415,0.0,top
-R4,100,R_0805_2012Metric,165.435,-84.365,0.0,top
-R5,120,R_0603_1608Metric,169.645,-82.825,0.0,top
-U1,SN65HVD230,SOIC-8_3.9x4.9mm_P1.27mm,167.705,-94.615,0.0,top
+C1,100nF,C_0603_1608Metric,159.766,-83.071,90.0,top
+C2,560pF,C_0603_1608Metric,172.974,-76.441,90.0,top
+C3,560pF,C_0603_1608Metric,172.974,-87.871,-90.0,top
+J1,Conn_01x02,TerminalBlock_bornier-2_P5.08mm,183.134,-81.534,90.0,top
+J2,PMOD,PinHeader_2x06_P2.54mm_Horizontal,149.29,-82.55,180.0,top
+JP1,Jumper_2_Open,PinHeader_1x02_P2.54mm_Vertical,177.038,-84.831,180.0,top
+R1,4.7K,R_0805_2012Metric,165.7115,-77.724,0.0,top
+R2,4.7k,R_0805_2012Metric,161.29,-77.724,0.0,top
+R3,100,R_0805_2012Metric,172.974,-80.251,90.0,top
+R4,100,R_0805_2012Metric,172.974,-84.061,-90.0,top
+R5,120,R_0603_1608Metric,177.292,-79.756,-90.0,top
+U1,SN65HVD230,SOIC-8_3.9x4.9mm_P1.27mm,166.116,-83.058,0.0,top
