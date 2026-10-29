@@ -1,0 +1,4 @@
+(fp_lib_table
+ (version 7)
+ (lib (name "canpmod")(type "KiCad")(uri "${KIPRJMOD}/libs/canpmod.pretty")(options "")(descr "CAN PMOD connector footprints"))
+)
